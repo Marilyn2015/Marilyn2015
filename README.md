@@ -54,13 +54,13 @@ Concept design for a secure operations environment meeting **TEMPEST** electroma
 
 ## 🎓 Education & Certifications
 
-<a href="https://www.credly.com/badges/COMP001022129609" target="_blank">
+<a href="https://www.credly.com/badges/6eec5441-9903-4d3d-b638-7f6f3536699f" target="_blank">
   <img src="https://img.shields.io/badge/CompTIA-A%2B-orange?logo=comptia">
 </a>  
-<a href="https://www.credly.com/badges/yyyyyyyy-yyyy-yyyy-yyyy-yyyyyyyyyyyy" target="_blank">
+<a href="https://www.credly.com/badges/36f83df2-231d-4b2f-b5f1-087f4ef60308" target="_blank">
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia">
 </a>  
-<a href="https://www.credly.com/badges/zzzzzzzz-zzzz-zzzz-zzzz-zzzzzzzzzzzz" target="_blank">
+<a href="https://www.credly.com/badges/955f967b-7372-4aaa-bcfd-b5ce3d0460ad" target="_blank">
   <img src="https://img.shields.io/badge/CompTIA-CySA%2B-blue?logo=comptia">
 </a>  
 
