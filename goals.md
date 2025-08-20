@@ -5,6 +5,8 @@ title: Goals
 
 # Goals
 
+I’m on a mission to become a leader at the intersection of **advanced cybersecurity** and **artificial intelligence**. My journey is fueled by a passion for safeguarding systems, outsmarting evolving threats, and unlocking the potential of AI to transform security. Every step forward is about blending deep technical expertise with forward‑thinking innovation.
+
 ## Next 12 Months
 - Earn the **CompTIA Advanced Security Practitioner (CASP+)** certification to deepen enterprise security architecture and risk management expertise.  
 - Begin my **Artificial Intelligence** coursework (starting September) with the aim of building strong foundations in AI concepts, tools, and applications.  
