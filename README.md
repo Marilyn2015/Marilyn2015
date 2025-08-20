@@ -15,50 +15,77 @@
   <a href="https://www.linkedin.com/in/marilynstephens/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   <a href="https://github.com/marilyn2015"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github"></a>
   <a href="mailto:marilyn_stephens@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail"></a>
-  <a href="https://usaf-my.dps.mil/:w:/g/personal/marilyn_stephens_ctr_us_af_mil/EdDryUgfSMpFrxdWlSucK3EBy2GlltIg5sQfLk8TyAb7zg?email=marilyn.stephens.ctr%40us.af.mil&e=SfdY93"><img src="https://img.shields.io/badge/📄_View%20Resume-Click_Here-success"></a>
+  <a href="https://1drv.ms/w/c/67a9c8173eaa3099/ETsfLuyTrEBOji6BGwJRNxMBHdq7vXjM2q-walKgxw62JQ"><img src="https://img.shields.io/badge/📄_View%20Resume-Click_Here-success"></a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen">
 </p>
 
 ---
 
-## 👋 About Me
-I’m a **Network Administrator** with deep expertise in **VMware, vSphere, ESXi, SAN/NAS**, and **DoD security compliance** — blending technical mastery with sharp business acumen from years of entrepreneurial leadership.  
+## 🚀 About Me
+I’m building a career at the intersection of **enterprise security** and **artificial intelligence** — safeguarding today’s systems while designing intelligent defenses for tomorrow’s threats.
 
-Currently, I’m at **Fusion Mastech**, managing secure, high‑availability environments and preparing to integrate **AI-driven security strategies** into enterprise and defense systems.
+With proven expertise in **virtualization**, **secure data handling**, and **infrastructure optimization**, I combine hands‑on technical skills with the strategic insight of a former business owner.
 
----
-
-## 🛠 Core Skills
-- **Virtualization:** VMware, vSphere, ESXi  
-- **Storage Management:** SAN / NAS  
-- **Cybersecurity:** CompTIA Security+, CySA+, pursuing CASP+  
-- **Compliance:** DoD standards, secure data transfer, TEMPEST concepts  
-- **Business Strategy:** Sales, client relations, project management  
-- **Disaster Recovery:** Incident response & continuity planning  
+From securing sensitive DoD data to creating **privacy‑first social platforms** and conceptualizing **TEMPEST‑compliant war rooms**, my work blends precision, creativity, and innovation.
 
 ---
 
-## 🚀 Current Goals
-- 📌 Earn **CASP+** certification  
-- 📌 Begin **AI coursework** to merge machine learning with security operations  
-- 📌 Launch a **polished GitHub portfolio** showcasing Humaanity & TEMPEST War Room projects  
+## 🛠 Core Competencies
+
+| **Technical Skills** | **Security Focus** | **Business Skills** |
+|----------------------|--------------------|---------------------|
+| VMware, vSphere, ESXi, SAN/NAS | Secure data transfer, compliance, system hardening | Client engagement & relationship management |
+| Virtualization & storage optimization | Risk assessment & mitigation | Project leadership |
+| AI integration into security workflows | Threat detection & response | Operational growth strategies |
 
 ---
 
-## 📂 Featured Projects
+## 📌 Featured Projects
 
-### [Humanity Platform](https://github.com/marilyn2015/hashhumanity)
-A social media platform concept designed for **privacy-first interaction** and **ethical engagement algorithms**.
+### **Humaanity** — Privacy‑Focused Social Media Platform  
+A community‑first platform built to foster meaningful interactions with **security and trust** at the forefront.
 
-### [TEMPEST War Room](https://github.com/marilyn2015/tempest-war-room)
-A secure infrastructure design applying **TEMPEST shielding principles** to protect against electromagnetic surveillance.
+### **TEMPEST‑Compliant War Room (Concept)**  
+Concept design for a secure operations environment meeting **TEMPEST** electromagnetic emission control standards.
 
----
-
-## 📫 Let’s Connect
-I love collaborating on **secure system innovation** and **AI‑driven cybersecurity initiatives**.  
-💬 Reach out via [LinkedIn](https://www.linkedin.com/in/marilynstephens/), [Email](mailto:marilyn_stephens@hotmail.com), or view my [📄 Resume](https://usaf-my.dps.mil/:w:/g/personal/marilyn_stephens_ctr_us_af_mil/EdDryUgfSMpFrxdWlSucK3EBy2GlltIg5sQfLk8TyAb7zg?email=marilyn.stephens.ctr%40us.af.mil&e=SfdY93).
+> Explore all projects in the [Projects](./projects.md) section.
 
 ---
 
-<p align="center"><i>“Merging security precision with AI innovation — because the future depends on both.”</i></p>
+## 🎓 Education & Certifications
+
+<a href="https://www.credly.com/badges/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx" target="_blank">
+  <img src="https://img.shields.io/badge/CompTIA-A%2B-orange?logo=comptia">
+</a>  
+<a href="https://www.credly.com/badges/yyyyyyyy-yyyy-yyyy-yyyy-yyyyyyyyyyyy" target="_blank">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia">
+</a>  
+<a href="https://www.credly.com/badges/zzzzzzzz-zzzz-zzzz-zzzz-zzzzzzzzzzzz" target="_blank">
+  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-blue?logo=comptia">
+</a>  
+
+🛠 **Pursuing CASP+** — In progress  
+📚 **Artificial Intelligence Coursework** — Starts Sept 2025  
+🔒 **Active Secret Clearance**
+
+---
+
+## 🎯 Goals
+
+1. Attain **CASP+** certification to strengthen enterprise security and risk management expertise.  
+2. Build deep skills in **AI** and its applications for cybersecurity.  
+3. Lead projects that integrate AI to enhance threat detection and resilience.
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:marilyn_stephens@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail"></a>  
+  <a href="https://www.linkedin.com/in/marilynstephens/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>  
+  <a href="https://github.com/marilyn2015"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?logo=github"></a>
+</p>
+
+---
+
+<p align="center"><i>“Securing today. Innovating for tomorrow.”</i></p>
