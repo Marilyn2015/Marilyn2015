@@ -60,7 +60,7 @@ A detailed conceptual design for a secure operations center, meeting stringent T
 
 - [LinkedIn](https://www.linkedin.com/in/marilynstephens/)  
 - [GitHub](https://github.com/Marilyn2015)  
-- Email: your.email@example.com  
+- Email: marilyn_stephens@hotmail.com  
 
 ---
 
