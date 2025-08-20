@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/profile.jpg" alt="Marilyn Stephens" width="180" style="border-radius:50%;">
+  <img src="./assets/me.jpg" alt="Marilyn Stephens" width="180" style="border-radius:50%;">
 </p>
 
 <h1 align="center">💻 Marilyn Stephens</h1>
 <p align="center">
-  <b>Network Administrator • Security & Virtualization Specialist</b><br>
+  <b>Network Administrator • Security Specialist</b><br>
   🔐 CompTIA A+ • Security+ • CySA+ • <i>Pursuing CASP+</i> • Active Secret Clearance<br>
   🎯 <i>Future Focus:</i> Advanced Cybersecurity + Artificial Intelligence
 </p>
@@ -24,7 +24,7 @@
 ## 🚀 About Me
 I’m building a career at the intersection of **enterprise security** and **artificial intelligence** — safeguarding today’s systems while designing intelligent defenses for tomorrow’s threats.
 
-With proven expertise in **virtualization**, **secure data handling**, and **infrastructure optimization**, I combine hands‑on technical skills with the strategic insight of a former business owner.
+With proven expertise in **secure data handling** and **infrastructure optimization**, I combine hands‑on technical skills with the strategic insight of a former business owner.
 
 From securing sensitive DoD data to creating **privacy‑first social platforms** and conceptualizing **TEMPEST‑compliant war rooms**, my work blends precision, creativity, and innovation.
 
@@ -34,15 +34,15 @@ From securing sensitive DoD data to creating **privacy‑first social platforms*
 
 | **Technical Skills** | **Security Focus** | **Business Skills** |
 |----------------------|--------------------|---------------------|
-| VMware, vSphere, ESXi, SAN/NAS | Secure data transfer, compliance, system hardening | Client engagement & relationship management |
-| Virtualization & storage optimization | Risk assessment & mitigation | Project leadership |
+| Storage systems (SAN/NAS) | Secure data transfer, compliance, system hardening | Client engagement & relationship management |
+| Infrastructure optimization | Risk assessment & mitigation | Project leadership |
 | AI integration into security workflows | Threat detection & response | Operational growth strategies |
 
 ---
 
 ## 📌 Featured Projects
 
-### **Humaanity** — Privacy‑Focused Social Media Platform  
+### **Humanity** — Privacy‑Focused Social Media Platform  
 A community‑first platform built to foster meaningful interactions with **security and trust** at the forefront.
 
 ### **TEMPEST‑Compliant War Room (Concept)**  
@@ -54,13 +54,13 @@ Concept design for a secure operations environment meeting **TEMPEST** electroma
 
 ## 🎓 Education & Certifications
 
-<a href="https://www.credly.com/badges/6eec5441-9903-4d3d-b638-7f6f3536699f" target="_blank">
+<a href="https://www.credly.com/badges/ba4eb19d-38b2-41fc-8b6b-7f64d0c8e621/public_url" target="_blank">
   <img src="https://img.shields.io/badge/CompTIA-A%2B-orange?logo=comptia">
 </a>  
-<a href="https://www.credly.com/badges/36f83df2-231d-4b2f-b5f1-087f4ef60308" target="_blank">
+<a href="https://www.credly.com/badges/5ac0ea47-6a9f-4e95-b4c4-327582f92c8a/public_url" target="_blank">
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia">
 </a>  
-<a href="https://www.credly.com/badges/955f967b-7372-4aaa-bcfd-b5ce3d0460ad" target="_blank">
+<a href="https://www.credly.com/badges/3cb4df88-45db-4b41-8ec6-2dd49fbb68de/public_url" target="_blank">
   <img src="https://img.shields.io/badge/CompTIA-CySA%2B-blue?logo=comptia">
 </a>  
 
