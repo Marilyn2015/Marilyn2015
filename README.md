@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/marilynstephens/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   <a href="https://github.com/marilyn2015"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github"></a>
   <a href="mailto:marilyn_stephens@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail"></a>
-  <a href="https://1drv.ms/w/c/67a9c8173eaa3099/EbtBKw-f1O1AgldLJRpFPx0B_k3JkyFsO4rMnevRPVtLLw?e=dbXWQH"><img src="https://img.shields.io/badge/📄_View%20Resume-Click_Here-success"></a>
+  <a href="https://marilyn2015.github.io/Resume/"><img src="https://img.shields.io/badge/📄_View%20Resume-Click_Here-success"></a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen">
 </p>
 
