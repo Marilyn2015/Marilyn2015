@@ -1,70 +1,79 @@
-# Marilyn Stephens
+<h1 align="center">💻 Marilyn Stephens</h1>
+<p align="center">
+  <b>Network Administrator • Security & Virtualization Specialist</b><br>
+  🔐 CompTIA A+ • Security+ • CySA+ • <i>Pursuing CASP+</i> • Active Secret Clearance<br>
+  🎯 <i>Future Focus:</i> Advanced Cybersecurity + Artificial Intelligence
+</p>
 
-💻 **Network Administrator • Security & Virtualization Specialist**  
-🔐 CompTIA A+ • Security+ • CySA+ • *Pursuing CASP+* • Active Secret Clearance  
-🎯 *Future Focus:* Advanced Cybersecurity + Artificial Intelligence
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marilynstephens/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="https://github.com/Marilyn2015"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github"></a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen">
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I’m building a career at the intersection of **enterprise security** and **artificial intelligence** — protecting critical systems today while designing intelligent defenses for the threats of tomorrow.
+I’m building a career at the intersection of **enterprise security** and **artificial intelligence** — safeguarding today’s systems while designing intelligent defenses for tomorrow’s threats.
 
-With a proven track record in **virtualization**, **secure data handling**, and **infrastructure optimization**, I bring a rare mix of hands‑on technical expertise, security mindset, and business acumen from my years as a successful entrepreneur.
+With proven expertise in **virtualization**, **secure data handling**, and **infrastructure optimization**, I combine hands‑on technical skills with the strategic insight of a former business owner.
 
-From safeguarding sensitive DoD data to architecting conceptual **TEMPEST‑compliant war rooms** and developing **privacy‑first social platforms**, I thrive on solving complex challenges with precision, creativity, and integrity.
+From securing sensitive DoD data to creating **privacy‑first social platforms** and conceptualizing **TEMPEST‑compliant war rooms**, my work blends precision, creativity, and innovation.
 
 ---
 
 ## 🛠 Core Competencies
 
-- **Virtualization & Storage**: VMware, vSphere, ESXi, SAN/NAS  
-- **Security**: Secure data transfer, compliance standards, system hardening  
-- **Development & Architecture**: Concept design, application security, AI integration  
-- **Business Skills**: Client engagement, project leadership, operational growth  
+| **Technical Skills** | **Security Focus** | **Business Skills** |
+|----------------------|--------------------|---------------------|
+| VMware, vSphere, ESXi, SAN/NAS | Secure data transfer, compliance, system hardening | Client engagement & relationship management |
+| Virtualization & storage optimization | Risk assessment & mitigation | Project leadership |
+| AI integration into security workflows | Threat detection & response | Operational growth strategies |
 
 ---
 
 ## 📌 Featured Projects
 
-### **Humaanity** — Privacy‑Focused Social Media Platform
-A community‑first social app designed to foster meaningful interactions with security and trust at its core.
+### **Humaanity** — Privacy‑Focused Social Media Platform  
+A community‑first platform built to foster meaningful interactions with **security and trust** at the forefront.
 
-### **TEMPEST‑Compliant War Room (Concept)**
-A detailed conceptual design for a secure operations center, meeting stringent TEMPEST standards for electromagnetic emission control.
+### **TEMPEST‑Compliant War Room (Concept)**  
+Concept design for a secure operations environment meeting **TEMPEST** electromagnetic emission control standards.
 
-*Explore more projects in the [Projects](./projects.md) section.*
+> Explore all projects in the [Projects](./projects.md) section.
 
 ---
 
 ## 🎓 Education & Certifications
 
-- **CompTIA A+**
-- **CompTIA Security+**
-- **CompTIA CySA+**
-- **Pursuing CASP+** — In progress  
-- **Artificial Intelligence Coursework** — Starting Sept 2025  
-- **Active Secret Clearance**
+![A+](https://img.shields.io/badge/CompTIA-A%2B-orange?logo=comptia)  
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia)  
+![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-blue?logo=comptia)  
+🛠 **Pursuing CASP+** — In progress  
+📚 **Artificial Intelligence Coursework** — Starts Sept 2025  
+🔒 **Active Secret Clearance**
 
 ---
 
 ## 🎯 Goals
 
 1. Attain **CASP+** certification to strengthen enterprise security and risk management expertise.  
-2. Build expertise in **Artificial Intelligence** and explore its applications in cybersecurity.  
-3. Lead innovative security projects that integrate AI for advanced threat detection and resilience.
+2. Build deep skills in **AI** and its applications for cybersecurity.  
+3. Lead projects that integrate AI to enhance threat detection and resilience.
 
 ---
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/marilynstephens/)  
-- [GitHub](https://github.com/Marilyn2015)  
-- Email: marilyn_stephens@hotmail.com  
+<p align="center">
+  <a href="mailto:marilyn_stephens@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail"></a>  
+  <a href="https://www.linkedin.com/in/marilynstephens/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>  
+  <a href="https://github.com/Marilyn2015"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?logo=github"></a>
+</p>
 
 ---
 
-> *“Securing today. Innovating for tomorrow.”*
-
-
-
+<p align="center"><i>“Securing today. Innovating for tomorrow.”</i></p>
