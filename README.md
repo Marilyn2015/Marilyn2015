@@ -47,7 +47,7 @@ Currently, I’m at **Fusion Mastech**, managing secure, high‑availability env
 
 ## 📂 Featured Projects
 
-### [Humaanity Platform](https://github.com/marilyn2015/humaanity)
+### [Humanity Platform](https://github.com/marilyn2015/hashhumanity)
 A social media platform concept designed for **privacy-first interaction** and **ethical engagement algorithms**.
 
 ### [TEMPEST War Room](https://github.com/marilyn2015/tempest-war-room)
