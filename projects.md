@@ -5,7 +5,7 @@ title: Projects
 
 # Projects
 
-## Humaanity — Social Media Platform
+Hash Humanity — Social Media Platform
 A secure, privacy-focused social app with curated feeds and community tools.  
 **Role:** Developer & Architect  
 **Highlights:**  
