@@ -12,9 +12,8 @@ A secure, privacy-focused social app with curated feeds and community tools.
 - Designed with modular security controls and authentication.  
 - Reduced feed latency by X% through caching optimizations.  
 - Developed moderation tools for safety and trust.  
-**Stack:** [List stack here]  
+  
 
----
 
 ## Other Work
 - Technical troubleshooting for Panasonic devices (Spherion, 2009)  
