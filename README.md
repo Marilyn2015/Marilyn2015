@@ -68,13 +68,13 @@ A community‑first platform built to foster meaningful interactions with **secu
 ## 🎓 Education & Certifications
 
 <p align="center">
-  <a href="https://www.credly.com/badges/ba4eb19d-38b2-41fc-8b6b-7f64d0c8e621/public_url" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.credly.com/users/marilynstephens" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/CompTIA-A%2B-orange?logo=comptia" alt="CompTIA A+">
   </a>
-  <a href="https://www.credly.com/badges/5ac0ea47-6a9f-4e95-b4c4-327582f92c8a/public_url" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.credly.com/users/marilynstephens" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia" alt="CompTIA Security+">
   </a>
-  <a href="https://www.credly.com/badges/3cb4df88-45db-4b41-8ec6-2dd49fbb68de/public_url" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.credly.com/users/marilynstephens" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/CompTIA-CySA%2B-blue?logo=comptia" alt="CompTIA CySA+">
   </a>
 </p>
