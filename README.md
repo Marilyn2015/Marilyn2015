@@ -36,14 +36,14 @@
 
 ---
 
-## 🚀 About me
+## 🚀 About Me
 I’m building a career at the intersection of **enterprise security** and **artificial intelligence** — safeguarding today’s systems while designing intelligent defenses for tomorrow’s threats.  
 
 My background spans **DoD data security**, **privacy‑first platforms**, and **TEMPEST‑compliant environments**. I bring a blend of **hands‑on technical expertise** and **strategic insight** from my experience as a business owner.
 
 ---
 
-## 🛠 Core competencies
+## 🛠 Core Competencies
 
 | **Technical Skills**              | **Security Focus**                  | **Business Skills**                  |
 |-----------------------------------|-------------------------------------|--------------------------------------|
@@ -53,18 +53,19 @@ My background spans **DoD data security**, **privacy‑first platforms**, and **
 
 ---
 
-## 📌 Featured projects
+## 📌 Featured Projects
 
-### 🌐 Humanity — Privacy‑focused social platform  
+### 🌐 Humanity — Privacy‑Focused Social Platform  
 A community‑first platform built to foster meaningful interactions with **security and trust** at the forefront.  
-- Repo: <a href="https://github.com/marilyn2015/Humanity" target="_blank" rel="noopener noreferrer">github.com/marilyn2015/Humanity</a>  
-- Overview: <a href="https://marilyn2015.github.io/projects/humanity" target="_blank" rel="noopener noreferrer">Project page</a>
 
-> Explore all projects in the <a href="./projects.md">Projects</a> section.
+- Repo: <a href="https://github.com/marilyn2015/Humanity" target="_blank" rel="noopener noreferrer">github.com/marilyn2015/Humanity</a>  
+- Overview: <a href="https://marilyn2015.github.io/projects/humanity" target="_blank" rel="noopener noreferrer">Project Page</a>  
+
+> Explore all projects in the <a href="./projects.md" target="_blank" rel="noopener noreferrer">Projects</a> section.
 
 ---
 
-## 🎓 Education & certifications
+## 🎓 Education & Certifications
 
 <p align="center">
   <a href="https://www.credly.com/badges/ba4eb19d-38b2-41fc-8b6b-7f64d0c8e621/public_url" target="_blank" rel="noopener noreferrer">
@@ -92,7 +93,7 @@ A community‑first platform built to foster meaningful interactions with **secu
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:marilyn_stephens@hotmail.com" target="_blank" rel="noopener noreferrer">
