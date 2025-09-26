@@ -16,31 +16,34 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marilynstephens/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+  <a href="https://www.linkedin.com/in/marilynstephens/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://github.com/marilyn2015" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github">
+  <a href="https://github.com/marilyn2015" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" alt="GitHub">
   </a>
-  <a href="mailto:marilyn_stephens@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail">
+  <a href="mailto:marilyn_stephens@hotmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" alt="Email">
   </a>
-  <a href="https://marilyn2015.github.io/Resume/" target="_blank">
-    <img src="https://img.shields.io/badge/View_Resume-Click_Here-success?logo=readme">
+  <a href="https://marilyn2015.github.io/Resume/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-success" alt="View Resume">
   </a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen">
+  <a href="https://marilyn2015.github.io" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-purple" alt="Portfolio">
+  </a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen" alt="Status">
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 About me
 I’m building a career at the intersection of **enterprise security** and **artificial intelligence** — safeguarding today’s systems while designing intelligent defenses for tomorrow’s threats.  
 
 My background spans **DoD data security**, **privacy‑first platforms**, and **TEMPEST‑compliant environments**. I bring a blend of **hands‑on technical expertise** and **strategic insight** from my experience as a business owner.
 
 ---
 
-## 🛠 Core Competencies
+## 🛠 Core competencies
 
 | **Technical Skills**              | **Security Focus**                  | **Business Skills**                  |
 |-----------------------------------|-------------------------------------|--------------------------------------|
@@ -50,32 +53,34 @@ My background spans **DoD data security**, **privacy‑first platforms**, and **
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured projects
 
-### 🌐 **Humanity** — Privacy‑Focused Social Media Platform  
+### 🌐 Humanity — Privacy‑focused social platform  
 A community‑first platform built to foster meaningful interactions with **security and trust** at the forefront.  
+- Repo: <a href="https://github.com/marilyn2015/Humanity" target="_blank" rel="noopener noreferrer">github.com/marilyn2015/Humanity</a>  
+- Overview: <a href="https://marilyn2015.github.io/projects/humanity" target="_blank" rel="noopener noreferrer">Project page</a>
 
-> Explore all projects in the [Projects](./projects.md) section.
+> Explore all projects in the <a href="./projects.md">Projects</a> section.
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education & certifications
 
 <p align="center">
-  <a href="https://www.credly.com/badges/ba4eb19d-38b2-41fc-8b6b-7f64d0c8e621/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/CompTIA-A%2B-orange?logo=comptia">
+  <a href="https://www.credly.com/badges/ba4eb19d-38b2-41fc-8b6b-7f64d0c8e621/public_url" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CompTIA-A%2B-orange?logo=comptia" alt="CompTIA A+">
   </a>
-  <a href="https://www.credly.com/badges/5ac0ea47-6a9f-4e95-b4c4-327582f92c8a/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia">
+  <a href="https://www.credly.com/badges/5ac0ea47-6a9f-4e95-b4c4-327582f92c8a/public_url" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia" alt="CompTIA Security+">
   </a>
-  <a href="https://www.credly.com/badges/3cb4df88-45db-4b41-8ec6-2dd49fbb68de/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/CompTIA-CySA%2B-blue?logo=comptia">
+  <a href="https://www.credly.com/badges/3cb4df88-45db-4b41-8ec6-2dd49fbb68de/public_url" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CompTIA-CySA%2B-blue?logo=comptia" alt="CompTIA CySA+">
   </a>
 </p>
 
-🛠 **Pursuing CASP+** — In progress  
-📚 **Artificial Intelligence Coursework** — Starts Sept 2025  
-🔒 **Active Secret Clearance**
+🛠 <b>Pursuing CASP+</b> — In progress  
+📚 <b>Artificial Intelligence Coursework</b> — Starts Sept 2025  
+🔒 <b>Active Secret Clearance</b>
 
 ---
 
@@ -87,17 +92,17 @@ A community‑first platform built to foster meaningful interactions with **secu
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with me
 
 <p align="center">
-  <a href="mailto:marilyn_stephens@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail">
+  <a href="mailto:marilyn_stephens@hotmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/marilynstephens/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
+  <a href="https://www.linkedin.com/in/marilynstephens/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://github.com/marilyn2015" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?logo=github">
+  <a href="https://github.com/marilyn2015" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?logo=github" alt="GitHub">
   </a>
 </p>
 
