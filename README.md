@@ -58,7 +58,7 @@ My background spans **DoD data security**, **privacy‑first platforms**, and **
 ### 🌐 Humanity — Privacy‑Focused Social Platform  
 A community‑first platform built to foster meaningful interactions with **security and trust** at the forefront.  
 
-- Repo: <a href="https://github.com/marilyn2015/Humanity" target="_blank" rel="noopener noreferrer">github.com/marilyn2015/Humanity</a>  
+- Repo: <a href="https://github.com/Marilyn2015/Marilyn2015" target="_blank" rel="noopener noreferrer">github.com/marilyn2015/Humanity</a>  
 - Overview: <a href="https://marilyn2015.github.io/projects/humanity" target="_blank" rel="noopener noreferrer">Project Page</a>  
 
 > Explore all projects in the <a href="./projects.md" target="_blank" rel="noopener noreferrer">Projects</a> section.
@@ -102,7 +102,7 @@ A community‑first platform built to foster meaningful interactions with **secu
   <a href="https://www.linkedin.com/in/marilynstephens/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://github.com/marilyn2015" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/Marilyn2015/Marilyn2015" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-black?logo=github" alt="GitHub">
   </a>
 </p>
