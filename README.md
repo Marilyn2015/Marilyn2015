@@ -39,7 +39,15 @@
 ## 🚀 About Me
 I’m building a career at the intersection of **enterprise security** and **artificial intelligence** — safeguarding today’s systems while designing intelligent defenses for tomorrow’s threats.  
 
-My background spans **DoD data security**, **privacy‑first platforms**, and **TEMPEST‑compliant environments**. I bring a blend of **hands‑on technical expertise** and **strategic insight** from my experience as a business owner.
+My professional background includes working in **Special Access Program (SAP) environments for the United States Air Force** — highly secure facilities comparable to SCIFs, where access is tightly controlled and every action must align with Department of Defense security practices.  
+
+- 🛡️ **Secure Facility Operations**: Experienced in handling sensitive data inside SAP facilities, ensuring compliance with strict DoD and Air Force security protocols.  
+- ⚙️ **LMOC Installations**: Supported Logistics Management Operations Center (LMOC) installs, maintaining mission‑critical systems in secure environments.  
+- 📡 **TEMPEST Compliance**: Assisted in the preparation and presentation of TEMPEST packages, ensuring electromagnetic security standards were met to protect against compromising emanations.  
+- 💻 **Continuous Learning**: Outside of duty hours, I dedicate time to learning **software development and coding**, applying those skills to personal projects that merge security with innovation.  
+
+I thrive in environments where **security, precision, and innovation** converge — whether that’s protecting sensitive systems for the Air Force or experimenting with new technologies in my personal projects.
+ a business owner.
 
 ---
 
@@ -56,7 +64,16 @@ My background spans **DoD data security**, **privacy‑first platforms**, and **
 ## 📌 Featured Projects
 
 ### 🌐 Humanity — Privacy‑Focused Social Platform  
-A community‑first platform built to foster meaningful interactions with **security and trust** at the forefront.  
+**Humanity** is a next‑generation social platform designed to put people—not algorithms or bots—at the center of online interaction. Built on the principles of **privacy, authenticity, and trust**, Humanity ensures that every connection is meaningful and every user is verifiably human.  
+
+- 🔒 **Privacy by Design**: User data is never exploited for ads or surveillance. Humanity leverages end‑to‑end encryption and zero‑knowledge principles to keep conversations secure.  
+- 🧑‍🤝‍🧑 **World ID Integration**: By using World ID for authentication, Humanity guarantees that every profile belongs to a real person, eliminating bots, spam, and fake accounts.  
+- 🌍 **Community‑First Governance**: Decisions about platform rules and features are shaped by the community, ensuring transparency and fairness.  
+- 🎨 **Creative Expression**: Rich media sharing, customizable profiles, and collaborative spaces empower users to build authentic digital identities.  
+- ⚡ **Scalable & Resilient**: Built with modern web technologies and infrastructure, Humanity is designed to grow sustainably without compromising trust.  
+
+At its core, Humanity is more than just a social app—it’s a movement to reclaim digital spaces for **genuine human connection**.  
+refront.  
 
 - Repo: <a href="https://github.com/Marilyn2015/Marilyn2015" target="_blank" rel="noopener noreferrer">github.com/marilyn2015/Humanity</a>  
 - Overview: <a href="https://marilyn2015.github.io/projects/humanity" target="_blank" rel="noopener noreferrer">Project Page</a>  
