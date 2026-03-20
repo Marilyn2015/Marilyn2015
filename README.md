@@ -38,12 +38,11 @@
 
 ## 🚀 About Me
 I’m building a career at the intersection of **enterprise security** and **artificial intelligence** — safeguarding today’s systems while designing intelligent defenses for tomorrow’s threats.  
+ 
 
-My professional background includes working in **Special Access Program (SAP) environments for the United States Air Force** — highly secure facilities comparable to SCIFs, where access is tightly controlled and every action must align with Department of Defense security practices.  
-
-- 🛡️ **Secure Facility Operations**: Experienced in handling sensitive data inside SAP facilities, ensuring compliance with strict DoD and Air Force security protocols.  
+- 🛡️ **Secure Facility Operations**: Experienced in handling sensitive data inside secure facilities, ensuring compliance with strict DoD and Air Force security protocols.  
 - ⚙️ **LMOC Installations**: Supported Logistics Management Operations Center (LMOC) installs, maintaining mission‑critical systems in secure environments.  
-- 📡 **TEMPEST Compliance**: Assisted in the preparation and presentation of TEMPEST packages, ensuring electromagnetic security standards were met to protect against compromising emanations.  
+- 📡 **TEMPEST Compliance**: Assisted in the preparation and presentation of TEMPEST packages, ensuring security standards were met to protect against compromising emanations.  
 - 💻 **Continuous Learning**: Outside of duty hours, I dedicate time to learning **software development and coding**, applying those skills to personal projects that merge security with innovation.  
 
 I thrive in environments where **security, precision, and innovation** converge — whether that’s protecting sensitive systems for the Air Force or experimenting with new technologies in my personal projects.
@@ -96,8 +95,7 @@ refront.
   </a>
 </p>
 
-🛠 <b>Pursuing CASP+</b> — In progress  
-📚 <b>Artificial Intelligence Coursework</b> — Starts Sept 2025  
+🛠 <b>Pursuing CASP+</b> — In progress    
 🔒 <b>Active Secret Clearance</b>
 
 ---
