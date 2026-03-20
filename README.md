@@ -5,7 +5,7 @@
 
 <h1 align="center">💻 Marilyn Stephens</h1>
 <h3 align="center" style="font-weight:400; color:#555;">
-  Network Administrator • Computer System Administrator 
+  • Computer System Administrator 
 </h3>
 
 <p align="center">
