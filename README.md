@@ -1,26 +1,23 @@
 <p align="center">
-  <img src="./assets/me.jpg" alt="Marilyn Stephens" width="180" 
+  <img src="./assets/me.jpg" alt="Marilyn Stephens" width="180"
        style="border-radius:50%; box-shadow:0 4px 12px rgba(0,0,0,0.15); object-fit:cover;">
 </p>
 
-<h1 align="center">💻 Marilyn Stephens</h1>
+<h1 align="center">Marilyn Stephens</h1>
 <h3 align="center" style="font-weight:400; color:#555;">
-  • Computer System Administrator 
+  Computer Systems Analyst | DoD Support | Cybersecurity | Secure Systems Operations
 </h3>
 
 <p align="center">
-  🔐 CompTIA A+ • Security+ • CySA+ • <i>Pursuing CASP+</i> • Active Secret Clearance<br>
-  🎯 <i>Future Focus:</i> Advanced Cybersecurity + Artificial Intelligence
+  CompTIA A+ • Security+ • CySA+ • Active Secret Clearance
 </p>
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marilynstephens/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://github.com/marilyn2015" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" alt="GitHub">
+  <a href="https://github.com/Marilyn2015" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" alt="GitHub">
   </a>
   <a href="mailto:marilyn_stephens@hotmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" alt="Email">
@@ -28,98 +25,98 @@
   <a href="https://marilyn2015.github.io/Resume/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-success" alt="View Resume">
   </a>
-  <a href="https://marilyn2015.github.io" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-purple" alt="Portfolio">
-  </a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen" alt="Status">
 </p>
 
 ---
 
-## 🚀 About Me
-I’m building a career at the intersection of **enterprise security** and **artificial intelligence** — safeguarding today’s systems while designing intelligent defenses for tomorrow’s threats.  
- 
+## Professional Summary
 
-- 🛡️ **Secure Facility Operations**: Experienced in handling sensitive data inside secure facilities, ensuring compliance with strict DoD and Air Force security protocols.  
-- ⚙️ **LMOC Installations**: Supported Logistics Management Operations Center (LMOC) installs, maintaining mission‑critical systems in secure environments.  
-- 📡 **TEMPEST Compliance**: Assisted in the preparation and presentation of TEMPEST packages, ensuring security standards were met to protect against compromising emanations.  
-- 💻 **Continuous Learning**: Outside of duty hours, I dedicate time to learning **software development and coding**, applying those skills to personal projects that merge security with innovation.  
+Cybersecurity and systems professional with experience supporting Department of Defense and policy-regulated environments, specializing in secure data handling, systems administration, mission-critical operations, and compliance-driven workflows. Currently supporting United States Air Force operations in a secure environment, with hands-on experience in mission data validation, controlled system workflows, radio support operations, TEMPEST-related support, and monthly system patching and hardening.
 
-I thrive in environments where **security, precision, and innovation** converge — whether that’s protecting sensitive systems for the Air Force or experimenting with new technologies in my personal projects.
- a business owner.
+In addition to formal systems work, I have expanded my technical skill set through self-directed development in React, Firebase, cloud-based tooling, and privacy-focused identity systems. I am especially interested in secure architecture, emerging identity technologies, and the practical use of AI tools to improve workflows and technical efficiency.
 
 ---
 
-## 🛠 Core Competencies
+## Core Strengths
 
-| **Technical Skills**              | **Security Focus**                  | **Business Skills**                  |
-|-----------------------------------|-------------------------------------|--------------------------------------|
-| Storage systems (SAN/NAS)         | Secure data transfer, compliance    | Client engagement & relationship mgmt|
-| Infrastructure optimization       | Risk assessment & mitigation        | Project leadership                   |
-| AI integration into workflows     | Threat detection & response         | Operational growth strategies        |
-
----
-
-## 📌 Featured Projects
-
-### 🌐 Humanity — Privacy‑Focused Social Platform  
-**Humanity** is a next‑generation social platform designed to put people—not algorithms or bots—at the center of online interaction. Built on the principles of **privacy, authenticity, and trust**, Humanity ensures that every connection is meaningful and every user is verifiably human.  
-
-- 🔒 **Privacy by Design**: User data is never exploited for ads or surveillance. Humanity leverages end‑to‑end encryption and zero‑knowledge principles to keep conversations secure.  
-- 🧑‍🤝‍🧑 **World ID Integration**: By using World ID for authentication, Humanity guarantees that every profile belongs to a real person, eliminating bots, spam, and fake accounts.  
-- 🌍 **Community‑First Governance**: Decisions about platform rules and features are shaped by the community, ensuring transparency and fairness.  
-- 🎨 **Creative Expression**: Rich media sharing, customizable profiles, and collaborative spaces empower users to build authentic digital identities.  
-- ⚡ **Scalable & Resilient**: Built with modern web technologies and infrastructure, Humanity is designed to grow sustainably without compromising trust.  
-
-At its core, Humanity is more than just a social app—it’s a movement to reclaim digital spaces for **genuine human connection**.  
-refront.  
-
-- Repo: <a href="https://github.com/Marilyn2015/Marilyn2015" target="_blank" rel="noopener noreferrer">github.com/marilyn2015/Humanity</a>  
-- Overview: <a href="https://marilyn2015.github.io/projects/humanity" target="_blank" rel="noopener noreferrer">Project Page</a>  
-
-> Explore all projects in the <a href="./projects.md" target="_blank" rel="noopener noreferrer">Projects</a> section.
+- Secure data handling and mission-critical system support
+- DoD and Air Force compliance-driven operations
+- Systems administration and operational troubleshooting
+- TEMPEST package support and secure facility awareness
+- Monthly patching, system updates, and security hardening
+- Technical documentation, process accuracy, and operational reliability
+- Self-directed software development and technical problem solving
 
 ---
 
-## 🎓 Education & Certifications
+## Professional Experience Highlights
 
-<p align="center">
+### Computer Systems Analyst  
+**Bering Sea Environmental LLC** | **Sep 2023 – Present**
+
+- Manage the secure handling, transfer, and validation of mission data across ICADS and PCDS environments
+- Perform system diagnostics and resolve data-flow issues to support mission continuity
+- Support classified and compliance-sensitive workflows with strong focus on confidentiality and integrity
+- Oversee radio communications and assigned frequencies in support of LMOC flight operations
+- Prepare, verify, and deliver mission data used for pilot debriefs and training support
+- Contributed to TEMPEST package preparation and supported secure facility transition efforts
+- Perform monthly patching, system updates, and security hardening in alignment with DoD directives
+
+**Tools & Platforms:** PCDS, ANGEL, ICADS, SolarWinds, MSCT
+
+### Founder / Owner  
+**Virginia Natural Cleaning Solutions** | **Aug 2013 – Aug 2023**
+
+- Built and scaled a service-based business from the ground up
+- Managed marketing, customer acquisition, vendor coordination, quoting, bookkeeping, and inventory
+- Earned SWaM certification and secured HUD-related inspection and compliance-focused contracts
+- Grew operations from a small initial client base into a stable revenue-generating company
+
+### Leasing & Operations Experience
+
+Previous roles include **Lead Leasing Consultant at SL Nusbaum Realty Co.** and **Leasing Consultant at Seminole Trail Management LLC**, with experience in leasing operations, compliance documentation, resident support, collections, and property workflow management. Achievements include increasing occupancy from 87% to 96% in two months and operating a property independently during an ownership transition.
+
+---
+
+## Certifications
+
+- CompTIA A+
+- CompTIA Security+
+- CompTIA CySA+
+- Active Secret Clearance
+
+<p>
   <a href="https://www.credly.com/users/marilynstephens" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/CompTIA-A%2B-orange?logo=comptia" alt="CompTIA A+">
-  </a>
-  <a href="https://www.credly.com/users/marilynstephens" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia" alt="CompTIA Security+">
-  </a>
-  <a href="https://www.credly.com/users/marilynstephens" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/CompTIA-CySA%2B-blue?logo=comptia" alt="CompTIA CySA+">
+    View certifications on Credly
   </a>
 </p>
 
-🛠 <b>Pursuing CASP+</b> — In progress    
-🔒 <b>Active Secret Clearance</b>
+---
+
+## Technical Interests
+
+- Cybersecurity operations
+- Secure identity systems
+- Privacy-focused platforms
+- Artificial intelligence tools
+- Full-stack development
+- Emerging technology and secure architecture
 
 ---
 
-## 🎯 Goals
+## Featured Project
 
-- ✅ Attain **CASP+** certification to strengthen enterprise security and risk management expertise  
-- ✅ Build deep skills in **AI** and its applications for cybersecurity  
-- ✅ Lead projects that integrate AI to enhance threat detection and resilience  
+### Hash Humanity
+
+Privacy-focused social platform centered on proof of personhood, zero-knowledge concepts, and modern web technologies. This project reflects my interest in secure identity, authenticity in online systems, and building privacy-aware platforms.
+
+- Repo: <a href="https://github.com/Marilyn2015/Marilyn2015" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+- Resume Site: <a href="https://marilyn2015.github.io/Resume/" target="_blank" rel="noopener noreferrer">View Resume</a>
 
 ---
 
-## 📫 Connect With Me
+## Connect
 
-<p align="center">
-  <a href="mailto:marilyn_stephens@hotmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/marilynstephens/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Marilyn2015/Marilyn2015" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?logo=github" alt="GitHub">
-  </a>
-</p>
-
-<p align="center"><i>Always open to connecting with fellow security professionals and innovators in AI.</i></p>
+- Email: <a href="mailto:marilyn_stephens@hotmail.com">marilyn_stephens@hotmail.com</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/marilynstephens/" target="_blank" rel="noopener noreferrer">linkedin.com/in/marilynstephens</a>
+- GitHub: <a href="https://github.com/Marilyn2015" target="_blank" rel="noopener noreferrer">github.com/Marilyn2015</a>
