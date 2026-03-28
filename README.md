@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/me.jpg" alt="Marilyn Stephens" width="180"
+  <img src="https://github.com/Marilyn2015/Marilyn2015/blob/main/assets/me.jpg" alt="Marilyn Stephens" width="180"
        style="border-radius:50%; box-shadow:0 4px 12px rgba(0,0,0,0.15); object-fit:cover;">
 </p>
 
