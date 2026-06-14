@@ -1,122 +1,116 @@
-<p align="center">
-  <img src="https://github.com/Marilyn2015/Marilyn2015/blob/main/me.jpg" alt="Marilyn Stephens" width="180"
-       style="border-radius:50%; box-shadow:0 4px 12px rgba(0,0,0,0.15); object-fit:cover;">
-</p>
+<!--
+  GitHub Profile README — Marilyn
+  Drop this in a repo named exactly your-username/your-username
+  (e.g. github.com/marilyn/marilyn) and it renders on your profile page.
+  Replace the placeholder links marked TODO before publishing.
+-->
 
 <h1 align="center">Marilyn Stephens</h1>
-<h3 align="center" style="font-weight:400; color:#555;">
-  Computer Systems Analyst | DoD Support | Cybersecurity | Secure Systems Operations
-</h3>
 
 <p align="center">
-  CompTIA A+ • Security+ • CySA+ • Active Secret Clearance
+  <strong>Mission-Critical Operations → Cybersecurity</strong><br>
+  CompTIA A+ · Security+ · CySA+ &nbsp;|&nbsp; 4 yrs mission-critical services &nbsp;|&nbsp; Builder of a live zero-knowledge identity platform
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marilynstephens/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Marilyn2015" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" alt="GitHub">
-  </a>
-  <a href="mailto:marilyn_stephens@hotmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" alt="Email">
-  </a>
-  <a href="https://marilyn2015.github.io/Resume/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-success" alt="View Resume">
-  </a>
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white" alt="Security+">
+  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white" alt="CySA+">
+  <img src="https://img.shields.io/badge/CompTIA-A%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white" alt="A+">
+  <img src="https://img.shields.io/badge/Clearance-Mission%20Critical-0A0A0A?style=for-the-badge" alt="Mission Critical">
 </p>
 
 ---
 
-## Professional Summary
+## Summary
 
-Cybersecurity and systems professional with experience supporting Department of Defense and policy-regulated environments, specializing in secure data handling, systems administration, mission-critical operations, and compliance-driven workflows. Currently supporting United States Air Force operations in a secure environment, with hands-on experience in mission data validation, controlled system workflows, radio support operations, TEMPEST-related support, and monthly system patching and hardening.
+I build trust into systems — first for residents and clients, now for data and identity.
 
-In addition to formal systems work, I have expanded my technical skill set through self-directed development in React, Firebase, cloud-based tooling, and privacy-focused identity systems. I am especially interested in secure architecture, emerging identity technologies, and the practical use of AI tools to improve workflows and technical efficiency.
+Over 20 years I rose from leasing agent to property manager, built and ran my own cleaning company for a decade, then put myself through school to earn three CompTIA certifications and move into mission-critical services. For the past four years I've operated in environments where uptime, security, and accountability are non-negotiable. Today I'm a security analyst expanding deeper into cybersecurity, and in parallel I designed and shipped a **live, World ID–verified social identity platform** built on **zero-knowledge proofs**.
 
----
-
-## Core Strengths
-
-- Secure data handling and mission-critical system support
-- DoD and Air Force compliance-driven operations
-- Systems administration and operational troubleshooting
-- TEMPEST package support and secure facility awareness
-- Monthly patching, system updates, and security hardening
-- Technical documentation, process accuracy, and operational reliability
-- Self-directed software development and technical problem solving
+The thread through all of it: I'm not afraid to start over, and I learn fast enough to make every restart pay off.
 
 ---
 
-## Professional Experience Highlights
+## What I Bring to a Security Team
 
-### Computer Systems Analyst  
-**Bering Sea Environmental LLC** | **Sep 2023 – Present**
+- **Operational discipline from mission-critical work** — I've spent four years where mistakes have real consequences. Change management, documentation, and following process aren't abstractions to me; they're habits.
+- **Certified and current** — A+, Security+, and CySA+, earned while working full time. CySA+ in particular maps directly to SOC analyst, threat detection, and vulnerability management work.
+- **Hands-on builder** — I don't just study security concepts, I implement them. I architected and deployed a production application using zero-knowledge proofs for privacy-preserving identity.
+- **Proven adaptability** — three distinct careers, each built from the ground up. Recruiters worry about whether someone can handle change; my entire record *is* handling change.
 
-- Manage the secure handling, transfer, and validation of mission data across ICADS and PCDS environments
-- Perform system diagnostics and resolve data-flow issues to support mission continuity
-- Support classified and compliance-sensitive workflows with strong focus on confidentiality and integrity
-- Oversee radio communications and assigned frequencies in support of LMOC flight operations
-- Prepare, verify, and deliver mission data used for pilot debriefs and training support
-- Contributed to TEMPEST package preparation and supported secure facility transition efforts
-- Perform monthly patching, system updates, and security hardening in alignment with DoD directives
+---
 
-**Tools & Platforms:** PCDS, ANGEL, ICADS, SolarWinds, MSCT
+## Featured Project — Hash Humanity
 
-### Founder / Owner  
-**Virginia Natural Cleaning Solutions** | **Aug 2013 – Aug 2023**
+> **A World ID–verified social identity layer using zero-knowledge proofs. Live in the World ecosystem.**
 
-- Built and scaled a service-based business from the ground up
-- Managed marketing, customer acquisition, vendor coordination, quoting, bookkeeping, and inventory
-- Earned SWaM certification and secured HUD-related inspection and compliance-focused contracts
-- Grew operations from a small initial client base into a stable revenue-generating company
+A full-stack, privacy-first social platform where every user is a verified unique human — without exposing who they are. Built and operated by me end to end.
 
-### Leasing & Operations Experience
+**Security & identity engineering**
+- **Zero-knowledge proof of personhood** — users prove they're a unique human via World ID nullifiers without revealing identity; the proof is unlinkable by design.
+- **Wallet-auth + World ID account linking** — canonical identity resolution across wallet authentication and World ID, with safeguards against account fragmentation.
+- **Defense-in-depth data rules** — granular database security rules with role-based access (user / mod / admin), ownership validation, and least-privilege writes.
+- **Content moderation pipeline** — automated moderation via cloud functions with a human review queue.
+- **Abuse resistance** — rate limiting, block-awareness, ban enforcement across wallet/nullifier/UID vectors.
 
-Previous roles include **Lead Leasing Consultant at SL Nusbaum Realty Co.** and **Leasing Consultant at Seminole Trail Management LLC**, with experience in leasing operations, compliance documentation, resident support, collections, and property workflow management. Achievements include increasing occupancy from 87% to 96% in two months and operating a property independently during an ownership transition.
+**Stack:** React · Firebase (RTDB, Cloud Functions, Storage, Hosting) · World ID / MiniKit · zero-knowledge proofs · PWA + World App mini-app
+
+🔗 **Live:** [hashhumanity.world](https://hashhumanity.world)
+
+---
+
+## Skills
+
+**Security**
+`Threat Detection` · `Vulnerability Management` · `Security Monitoring` · `Access Control & RBAC` · `Incident Response Fundamentals` · `Risk Management`
+
+**Technical**
+`Zero-Knowledge Proofs` · `Identity & Authentication` · `Cloud Security Rules` · `JavaScript / React` · `Firebase` · `API Integration` · `PWAs`
+
+**Operational**
+`Mission-Critical Services` · `Change Management` · `Documentation` · `Process Compliance` · `Team Leadership`
+
+---
+
+## Career Path
+
+**Cybersecurity / Mission-Critical Services** — *TDX Combat Services* · 4 years
+Operating in mission-critical environments where security and uptime are non-negotiable. Expanding into dedicated cybersecurity roles.
+
+**Founder & Operator** — *Virginia Natural Cleaning Solutions*, Hampton VA · 10 years
+Built a residential and commercial cleaning company from the ground up. Won and managed recurring contracts with apartment complexes across Newport News, VA. Ran every part of the business — sales, operations, staffing, client relationships.
+
+**Leasing Agent → Property Manager** — *Property Management* · 20 years
+Advanced from leasing agent to property manager. Two decades of managing residents, contracts, budgets, vendors, and teams — the foundation of operational accountability I carry into security work.
 
 ---
 
 ## Certifications
 
-- CompTIA A+
-- CompTIA Security+
-- CompTIA CySA+
-- Active Secret Clearance
-
-<p>
-  <a href="https://www.credly.com/users/marilynstephens" target="_blank" rel="noopener noreferrer">
-    View certifications on Credly
-  </a>
-</p>
+| Certification | Domain |
+|---|---|
+| CompTIA **CySA+** | Threat detection, behavioral analytics, incident response |
+| CompTIA **Security+** | Core security, cryptography, access control, risk |
+| CompTIA **A+** | Hardware, OS, networking, troubleshooting fundamentals |
 
 ---
 
-## Technical Interests
+## Currently
 
-- Cybersecurity operations
-- Secure identity systems
-- Privacy-focused platforms
-- Artificial intelligence tools
-- Full-stack development
-- Emerging technology and secure architecture
-
----
-
-## Featured Project
-
-### Hash Humanity
-
-Privacy-focused social platform centered on proof of personhood, zero-knowledge concepts, and modern web technologies. This project reflects my interest in secure identity, authenticity in online systems, and building privacy-aware platforms.
-
-- Repo: <a href="https://github.com/Marilyn2015/Marilyn2015" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
-- Resume Site: <a href="https://marilyn2015.github.io/Resume/" target="_blank" rel="noopener noreferrer">View Resume</a>
+- Expanding into **SOC analyst / cybersecurity** roles
+- Operating and growing **[Hash Humanity](https://hashhumanity.world)** — live ZK-identity platform
+- Deepening hands-on work in **applied cryptography and identity systems**
 
 ---
 
 ## Connect
 
-- Email: <a href="mailto:marilyn_stephens@hotmail.com">marilyn_stephens@hotmail.com</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/marilynstephens/" target="_blank" rel="noopener noreferrer">linkedin.com/in/marilynstephens</a>
-- GitHub: <a href="https://github.com/Marilyn2015" target="_blank" rel="noopener noreferrer">github.com/Marilyn2015</a>
+<!-- TODO: replace with your real links -->
+- 🌐 **Hash Humanity:** [hashhumanity.world](https://hashhumanity.world)
+- 💼 **LinkedIn:** [linkedin.com/in/marilynstephens](https://linkedin.com/in/marilynstephens)
+- 📧 **Email:** marilyn_stephens@hotmail.com
+- 📍 Hampton, Virginia
+
+---
+
+<p align="center"><em>Three careers. Each built from nothing. Each one a deliberate move toward harder problems.</em></p>
